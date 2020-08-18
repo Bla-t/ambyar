@@ -1,0 +1,51 @@
+.navbar 
+{
+  padding: 0;
+  font-family: Helvetica
+}
+
+.navbar-brand 
+{
+  padding: 0;
+}
+
+#navbar-brand-img 
+{
+  max-height: 8vh;
+  min-height: 6vh;
+  margin-right: -35px;
+  margin-left: 20px;
+}
+
+.nav-box {
+  height: 100%;
+}
+
+.navbar-light .navbar-nav .nav-link, .active
+{
+  color: #004063 !important;
+  font-weight: bold;
+  font-size: 1em;
+}
+
+@media (min-width: 768px) {
+  .navbar-nav > li {
+    float: left;
+    position: relative;
+  }
+  
+  #navbar-content
+  {
+    max-height: 8vh;
+    min-height: 6vh;
+  }
+
+  .navbar-light .navbar-nav .active a::before {
+    border-top: 3px solid #004063;
+    top: -10px;
+    content: " ";
+    left: 0;
+    position: absolute;
+    right: 0;
+  }
+}

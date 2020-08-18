@@ -1,0 +1,927 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mysqli",
+				"mysqli_fetch"
+			],
+			[
+				"onmo",
+				"onmouseover\tAttr"
+			],
+			[
+				"dar",
+				"dari"
+			],
+			[
+				"pa",
+				"Panjang"
+			],
+			[
+				"mys",
+				"mysql_query"
+			],
+			[
+				"drop",
+				"dropdown-menu"
+			],
+			[
+				"backgrou",
+				"background-color\tproperty"
+			],
+			[
+				"bag",
+				"background-color\tproperty"
+			],
+			[
+				"table",
+				"TABLE"
+			],
+			[
+				"tab",
+				"TABLE"
+			],
+			[
+				"kone",
+				"koneksi"
+			],
+			[
+				"da",
+				"date_format"
+			],
+			[
+				"date",
+				"date_add"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"Dele",
+				"DELETE"
+			],
+			[
+				"mysqli_",
+				"mysqli_query"
+			],
+			[
+				"minim",
+				"minim3"
+			],
+			[
+				"f1",
+				"fix1"
+			],
+			[
+				"updat",
+				"UPDATE"
+			],
+			[
+				"my",
+				"mysql_query"
+			],
+			[
+				"event",
+				"event_add"
+			],
+			[
+				"eve",
+				"event_new"
+			],
+			[
+				"mdn",
+				"MDN"
+			],
+			[
+				"prb",
+				"PRB"
+			],
+			[
+				"tga",
+				"TGA"
+			],
+			[
+				"skb",
+				"SKB"
+			],
+			[
+				"tsk",
+				"TSK"
+			],
+			[
+				"grt",
+				"GRT"
+			],
+			[
+				"bdg",
+				"BDG"
+			],
+			[
+				"pwa",
+				"PWA"
+			],
+			[
+				"bgr",
+				"BGR"
+			],
+			[
+				"srg",
+				"SRG"
+			],
+			[
+				"krw",
+				"KRW"
+			],
+			[
+				"bks",
+				"BKS"
+			],
+			[
+				"tgr",
+				"TGR"
+			],
+			[
+				"dpk",
+				"DPK"
+			],
+			[
+				"jkt",
+				"JKT"
+			],
+			[
+				"backgroun",
+				"background-position\tproperty"
+			],
+			[
+				"ba",
+				"background-image\tproperty"
+			],
+			[
+				"f",
+				"fixed\tposition"
+			],
+			[
+				"back",
+				"background-image\tproperty"
+			],
+			[
+				"K",
+				"Kosongkan"
+			],
+			[
+				"form-",
+				"form-row"
+			],
+			[
+				"str_",
+				"str_repeat"
+			],
+			[
+				"fix",
+				"fix1"
+			],
+			[
+				"disa",
+				"display-5"
+			],
+			[
+				"mysql",
+				"mysql_query"
+			],
+			[
+				"if",
+				"ifelse\tif … else …"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"PA",
+				"padding-right\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"si",
+				"font-size"
+			],
+			[
+				"bold",
+				"border-left\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"T",
+				"Tujuan"
+			],
+			[
+				"D",
+				"Dari"
+			],
+			[
+				"DD",
+				"dds"
+			],
+			[
+				"col",
+				"collapseone"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"cari",
+				"cari1"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"excel",
+				"excel_readerXLS"
+			],
+			[
+				"exc",
+				"excel_readerX"
+			],
+			[
+				"ole",
+				"OLERead"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"dari",
+				"Dari"
+			],
+			[
+				"collapS",
+				"collapse"
+			],
+			[
+				"min",
+				"minim2"
+			],
+			[
+				"for",
+				"form-row"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"H",
+				"href"
+			],
+			[
+				"bal",
+				"blank"
+			],
+			[
+				"BA",
+				"BALI"
+			],
+			[
+				"col-",
+				"col-4"
+			],
+			[
+				"col-1",
+				"collapse-1"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"sh",
+				"box-shadow\tproperty"
+			],
+			[
+				"pad",
+				"padding-bottom\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"l",
+				"L"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"bali",
+				"BALI"
+			],
+			[
+				"jatim",
+				"JATIM"
+			],
+			[
+				"jate",
+				"JATENG"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"padding",
+				"padding-left\tproperty"
+			],
+			[
+				"ge",
+				"getElementById"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "script/updet.php",
+			"settings":
+			{
+				"buffer_size": 1797,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "home.php",
+			"settings":
+			{
+				"buffer_size": 21080,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/price-list-master/fx.php",
+			"settings":
+			{
+				"buffer_size": 9183,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/price-list-master/Baraka.php",
+			"settings":
+			{
+				"buffer_size": 12772,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Convert Case: Title Case"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 238.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs",
+		"/C/xampp/htdocs/agen"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/agen/agen_isidatabrg.php",
+		"/C/xampp/htdocs/price-list-master/Baraka.php",
+		"/C/xampp/htdocs/cek tarif/fx.php",
+		"/C/xampp/htdocs/price-list-master/fx.php",
+		"/C/xampp/htdocs/price-list-master/cabang_isidatabrg.php",
+		"/C/xampp/htdocs/cek tarif/script/aplod.php",
+		"/C/Users/PO/Desktop/filezila/index.html",
+		"/C/xampp/htdocs/cek tarif/index.php",
+		"/C/xampp/htdocs/cek tarif/script/empty.php",
+		"/C/xampp/htdocs/cek tarif/script/aksipeta.php",
+		"/C/xampp/htdocs/price-list-master/kone.php",
+		"/C/xampp/htdocs/cek tarif/kone.php",
+		"/C/xampp/htdocs/cek tarif/text tujuan.php",
+		"/C/xampp/htdocs/cek tarif/script/aplodBDr.php",
+		"/C/xampp/htdocs/cek tarif/home.php",
+		"/C/xampp/htdocs/cek tarif/script/dnldBDR.php",
+		"/C/xampp/htdocs/cek tarif/script/updet.php",
+		"/C/Users/PO/Desktop/upload/script/Baraka.php",
+		"/C/Users/PO/Desktop/upload/script/fxbalpal.php",
+		"/C/Users/PO/Desktop/upload/script/fxjateng.php",
+		"/C/Users/PO/Desktop/upload/script/fxjabar.php",
+		"/C/Users/PO/Desktop/upload/script/fxjatim.php",
+		"/C/Users/PO/Desktop/upload/script/fxjatim2.php",
+		"/C/xampp/htdocs/cek tarif/Baraka.php",
+		"/C/xampp/htdocs/cek tarif/script/aplodtujuan.php",
+		"/C/Users/PO/Desktop/upload/Baraka.php",
+		"/C/xampp/htdocs/price-list-master/fxjabar.php",
+		"/E/Download/Baraka.php",
+		"/C/xampp/htdocs/cek tarif/tujuan1.php",
+		"/C/xampp/htdocs/cek tarif/tujuan2.php",
+		"/C/xampp/htdocs/cek tarif/script/del.php",
+		"/C/xampp/htdocs/cek tarif/script/edit.php",
+		"/C/xampp/htdocs/extr/Baraka.php",
+		"/C/xampp/htdocs/extr/fxjabar.php",
+		"/C/xampp/htdocs/price-list-master/fxjatim.php",
+		"/C/xampp/htdocs/price-list-master/fxbalpal.php",
+		"/C/xampp/htdocs/cek tarif/script/aplodSRG.php",
+		"/C/xampp/htdocs/cek tarif/script/dnldSRG.php",
+		"/C/xampp/htdocs/cek tarif/script/empty5.php",
+		"/C/xampp/htdocs/cek tarif/script/empty4.php",
+		"/C/xampp/htdocs/cek tarif/script/aplodJBI.php",
+		"/C/xampp/htdocs/cek tarif/script/empty3.php",
+		"/C/xampp/htdocs/cek tarif/script/dnldJBI.php",
+		"/C/xampp/htdocs/cek tarif/script/empty2.php",
+		"/C/xampp/htdocs/cek tarif/script/donlod.php",
+		"/C/xampp/htdocs/cek tarif/script/dnldBGr.php",
+		"/C/xampp/htdocs/cek tarif/script/aplodbgr.php",
+		"/C/xampp/htdocs/cek tarif/script/dnldBGR.php",
+		"/C/xampp/htdocs/cek tarif/script/tambah.php",
+		"/C/xampp/htdocs/cek tarif/script/setpeta.php",
+		"/C/xampp/htdocs/cek tarif/script/editpeta.php",
+		"/C/xampp/htdocs/cek tarif/script/delpta.php",
+		"/C/xampp/htdocs/cek tarif/script/aksi+.php",
+		"/C/xampp/htdocs/cek tarif/aplod.php",
+		"/C/xampp/htdocs/cek tarif/empty.php",
+		"/C/xampp/htdocs/cek tarif/donlod.php",
+		"/C/xampp/htdocs/cek tarif/del.php",
+		"/C/xampp/htdocs/cek tarif/spreadsheet-reader-master/SpreadsheetReader_XLS.php",
+		"/E/Download/import-excel/koneksi.php",
+		"/E/Download/import-excel/index.php",
+		"/C/xampp/htdocs/import-excel/index.php",
+		"/C/xampp/htdocs/import-excel/koneksi.php",
+		"/C/xampp/htdocs/import-excel/spreadsheet-reader-master/SpreadsheetReader_XLSX.php",
+		"/C/xampp/htdocs/cek tarif/excel_readerXLS.php",
+		"/C/xampp/htdocs/cek tarif/excel_readerX.php",
+		"/C/xampp/htdocs/cek tarif/tambah.php",
+		"/C/xampp/htdocs/cek tarif/edit.php",
+		"/C/xampp/htdocs/cek tarif/excel_readerXLSX.php",
+		"/C/xampp/htdocs/price-list-master/fxjateng.php",
+		"/C/xampp/htdocs/cek tarif/asets/BST.js",
+		"/C/xampp/htdocs/price-list-master/fxjatim2.php",
+		"/D/html/index.html",
+		"/C/xampp/htdocs/cek tarif/aksipeta.php",
+		"/C/xampp/htdocs/cek tarif/aksi+.php",
+		"/D/html/maping.html",
+		"/C/xampp/htdocs/cek tarif/delpta.php",
+		"/C/xampp/htdocs/cek tarif/editpeta.php",
+		"/C/xampp/htdocs/cek tarif/setpeta.php",
+		"/C/xampp/htdocs/cek tarif/updet.php",
+		"/C/xampp/htdocs/cek tarif/maping.php",
+		"/C/xampp/htdocs/cek tarif/openstreetmap.html",
+		"/C/xampp/htdocs/cek tarif/BST.js",
+		"/C/xampp/htdocs/html/maping.php",
+		"/D/html/asets/BST.js",
+		"/D/html/openstreetmap.html",
+		"/C/xampp/htdocs/html/~/index.php",
+		"/C/xampp/htdocs/html/~/login.php",
+		"/C/xampp/htdocs/html/login.php",
+		"/C/xampp/htdocs/html/admin/akses.php",
+		"/C/xampp/htdocs/price-list-master/fxbalpal.rar",
+		"/C/xampp/htdocs/html/admin.php",
+		"/C/xampp/htdocs/html/admin/login.php",
+		"/D/html/asets/cdnjs.cloudflare.js",
+		"/C/xampp/htdocs/html/BST.js",
+		"/C/xampp/htdocs/html/openstreetmap.html",
+		"/C/xampp/htdocs/html/index.php",
+		"/C/xampp/htdocs/html/indext.php",
+		"/C/xampp/htdocs/html/maping..php",
+		"/D/html/BST.js",
+		"/D/html/cdnjs.cloudflare.js",
+		"/D/html/ajax.googleapis.js",
+		"/D/html/jquery.js",
+		"/C/Windows/WinSxS/amd64_display.inf.resources_31bf3856ad364e35_10.0.18362.1_en-us_02218c5dba2792e9/display.inf_loc",
+		"/C/Windows/Boot/Resources/en-US/bootres.dll.mui",
+		"/C/Windows/system.ini",
+		"/E/Download/Sicepat - Lokasi.html",
+		"/D/html/Leaflet.markercluster-master/dist/realworld.388.js",
+		"/D/html/Leaflet.markercluster-master/example/geojson.html",
+		"/D/html/Leaflet.markercluster-master/example/geojson-sample.js",
+		"/D/html/Leaflet.markercluster-master/bower.json",
+		"/D/html/Leaflet.markercluster-master/dist/leaflet.markercluster-src.js",
+		"/D/html/maping"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"PERkG",
+			"minim3",
+			"code",
+			"TNH",
+			"['']/",
+			"tujuan",
+			"code",
+			"mysqli_query",
+			"sdj2008140013",
+			"tla2008130012",
+			"sdj2008140008",
+			"t_else",
+			"light",
+			"class=\"the",
+			"thead",
+			"light",
+			"Kubikasi",
+			"minim",
+			"kg1",
+			"minim3",
+			"minim",
+			"_POST",
+			"depok.bgr",
+			".bgr",
+			"2",
+			"3",
+			"td",
+			"8",
+			"19",
+			"18",
+			"17",
+			"16",
+			"15",
+			"14",
+			"13",
+			"12",
+			"10",
+			"9",
+			"8",
+			"f6",
+			"serang",
+			"aplodSRG",
+			"tabelharga3",
+			"danger",
+			"_GET",
+			"Delete",
+			"EAD690",
+			"857746",
+			"CABB89",
+			"= event_add(klick)",
+			"event_set",
+			"fd, events, callback",
+			"event_add",
+			"name",
+			"a",
+			"type",
+			"number",
+			"150",
+			"=\"\"",
+			"id",
+			"_GET",
+			"text",
+			"_POST",
+			"post",
+			"button",
+			"id",
+			"100",
+			"1",
+			"200",
+			"control",
+			"rounded",
+			"lg",
+			"class",
+			"responsive",
+			"2",
+			"col",
+			"3",
+			"lg",
+			"sm",
+			"col",
+			"=\"\">",
+			">\n",
+			"ol",
+			"class",
+			"_GET",
+			"_POST",
+			"bkl",
+			".bkl",
+			"mlg",
+			"DPS",
+			"JPI",
+			"mdn",
+			"JPI",
+			"psr",
+			"JPI",
+			"cikarang",
+			"tangerang",
+			"bekasi",
+			"depok",
+			"jakarta",
+			"bekasi",
+			"KRW",
+			"JKT",
+			"jkt",
+			".bgr",
+			"bogor",
+			"7 5000",
+			"kober",
+			"2",
+			"3-",
+			">\n",
+			"minima",
+			"2Kg",
+			"1Kg",
+			"kOSONGKAN",
+			"Download",
+			"Kosongkan",
+			"gray",
+			"C8C8C8",
+			"color",
+			"cari",
+			"a",
+			"cari",
+			"table",
+			"berhasil",
+			"158",
+			"SUMATRA",
+			"sumatra"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "script/updet.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1797,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1249,
+								1249
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 156.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "home.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 21080,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14128,
+								14128
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5446.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/xampp/htdocs/price-list-master/fx.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9183,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4485,
+								4485
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1689.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/xampp/htdocs/price-list-master/Baraka.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12772,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2237,
+								2237
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 506.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 121.0
+	},
+	"input":
+	{
+		"height": 121.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "home.sublime-project",
+	"replace":
+	{
+		"height": 238.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
