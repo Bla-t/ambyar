@@ -48,30 +48,135 @@
           <div class="col-md-12">
             <select class="form-control" id="tarif-from" name="prom"required>
 
-                  <option selected="" disabled="" >Dari :</option>
+                   <option selected disabled value="">Dari :</option>
+
+                  <option disabled style="color: #BBA255;">----Jakarta Tanah Abang-----</option>
+                  
+                  <option value="TNH"> Cideng</option>
+                  
+                  <option value="TNH"> Kampung Bali</option>
+                  
+                  <option value="TNH"> Blok B</option>
+                  
+                  <option value="TNH"> Nagalintas</option>
+                  
+                  <option value="TNH"> Jati Negara</option>
 
                   <option disabled style="color:  #39929d;">----------JAWA BARAT-----------</option>
-                  <?php
-                    include 'kone.php';
-                    
-                    $isi=mysqli_query($koneksi,"SELECT * FROM tujuan");
-                    while($d=mysqli_fetch_array($isi)){
-                  ?>
 
-                  <option value="<?php echo $d['valueD1']; ?>"><?php echo $d['Dari1']; ?></option>
+                  <option value="jak1"> Jakarta</option>
+              
+                  <option value="jak1"> Depok</option>
+              
+                  <option value="jak1"> Bekasi</option>
+                              
+                  <option value="SRG"> Tangerang</option>
+              
+                  <option value="SRG"> Cikarang</option>      
+                                
+                  <option value="JTG2"> Purwakarta</option>
+              
+                  <option value="SRG"> Karawang</option>
 
-                  <?php
-                    }
-                    ?>
+                  <option value="JTG2"> Indramayu</option>
+
+                  <option value="SRG"> Serang</option>
+              
+                  <option value="BGR"> Bogor</option>
+            
+                  <option value="JTG2"> Cirebon</option>
+              
+                  <option value="BDG"> Bandung</option>
+              
+                  <option value="JBR"> Garut</option>
+
+                  <option value="JBR"> Tasik</option>
+
+                  <option value="SRG"> Sukabumi</option>
+
                   <option disabled style="color: #39929d;">-----------JAWA Tengah-----------</option>
-                 <!--  <?php
-                    //include "tujuan2.php";
-                  ?> -->
+
+                  <option value="JTG3"> Purwokerto</option>
+
+                  <option value="JTG3"> Kebumen</option>
+
+                  <option value="JTG2"> Tegal</option>
+
+                  <option value="JTG2"> Pemalang</option>
+
+                  <option value="JTG2"> Pekalongan</option>
+
+                  <option value="JBR"> Banjar Patroman</option>
+
+                  <option value="JTG1"> Semarang</option>
+
+                  <option value="JTG1"> Kudus</option>
+
+                  <option value="JTG1"> Jogja</option>
+
+                  <option value="JTG1"> Kelaten</option>
+
+                  <option value="JTG1"> Salatiga</option>
+
+                  <option value="JTG1"> Solo</option>
+
+                  <option value="JTG1"> Magelang</option>
+
                   <option disabled style="color: #39929d;">-----------JAWA TIMUR-----------</option> 
+              
+                  <option value="SBY"> Surabaya</option>
+
+                  <option value="JTM1">Bangkalan</option>
+
+                  <option value="JTM1"> Bojonegoro</option>
+
+                  <option value="JTM1"> Gresik</option>
+
+                  <option value="JTM1"> Sidoarjo</option>
+
+                  <option value="JTM1"> Mojokerto</option>
+
+                  <option value="JTM1"> Malang</option>
+
+                  <option value="JTM1"> Kediri</option>
+
+                  <option value="JTM1S"> Blitar</option>
+
+                  <option value="JTM1S"> Tulungagung</option>
+
+                  <option value="JTM2"> Pasuruhan</option>
+
+                  <option value="JTM2"> Probolinggo</option>
+
+                  <option value="JTM1S"> Nganjuk</option>
+
+                  <option value="JTM1S"> Madiun</option>
+
+                  <option value="JTM2U"> Jember</option>
+
+                  <option value="JTM2U"> Lumajang</option>
+
+                  <option value="JTM2U"> Banyuwangi</option>
               
                   <option disabled style="color: #39929d; ">-----------Bali-----------</option>
 
+                  <option value="BALI"> Denpasar</option>
+
+                  <option value="BALI"> Tabanan</option>
+
+                  <option value="BALI"> Nusa Dua</option>
+
+                  <option value="BALI"> Singaraja</option>
+
                   <option disabled style="color: #39929d; ">-----------Sumatra-----------</option>
+
+                  <option value="LPG"> Bandar Lampung</option>
+
+                  <option value="PLB"> Palembang</option>
+
+                  <option value="JBI"> Jambi</option>
+
+                  <option value="PKB"> Pekan Baru</option>
 
                 
             </select>            
