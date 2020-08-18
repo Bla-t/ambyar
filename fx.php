@@ -1,114 +1,16 @@
 <?php
-		 error_reporting(E_ALL ^ (E_NOTICE | E_WARNING));
-			
-
-      include ("kone.php");
-?>
-       
-
-		// $data = mysqli_query($koneksi,"select * from tabelharga");
-		// while($d = mysqli_fetch_array($data)){
-
-	 //        $berat = $_POST['brt'];
-  //           $Lebar = $_POST['le'];
-  //           $Panjang = $_POST['pa'];
-  //           $Tinggi = $_POST['ti'];
-  //           $tujuan = $_POST['tujuan'];
-  //           $dari = $_POST['prom'];
-
-  //       if($berat == 1 &&$d['Dari'] == $dari && $d['Tujuan'] ==$tujuan){
-
-  //       	echo rupiah($d['fix1']);
-  //       }
-
-  //       elseif ($berat == 2 && $d['Dari']==$dari && $d['Tujuan'] ==$tujuan) {
-
-  //       	echo rupiah($d['fix2']);
-  //       }
-
-  //       elseif ($berat > 2 &&$berat < 11 && $d['Dari'] == $dari &&$d['Tujuan'] == $tujuan ) {
-
-  //       	echo rupiah((($berat - 1) * $d['Kg3'] + $d['minim3']) + ($Lebar * $Panjang * $Tinggi  * ($d['kubikasi'] / 1000000)));
-  //       }
-
-  //       elseif ($berat > 10 &&$berat < 101 && $d['Dari'] == $dari &&$d['Tujuan'] == $tujuan ) {
-
-  //       	echo rupiah((($berat - 10) * $d['Kg11'] + $d['minim11']) + ($Lebar * $Panjang * $Tinggi  * ($d['kubikasi'] / 1000000)));
-  //       }
-
-  //       elseif ($berat > 100 && $d['Dari'] == $dari &&$d['Tujuan'] == $tujuan) {
-
-  //       	echo rupiah(($berat * $d['lebih100']) + ($Lebar * $Panjang * $Tinggi  * ($d['kubikasi'] / 1000000)));
-  //       }
-
-  //       elseif ($berat == 0 &&$d['Dari'] == $dari &&$d['Tujuan'] == $tujuan) {
-
-  //       	echo rupiah($Lebar * $Panjang * $Tinggi  * ($d['kubikasi'] / 1000000));
-  //       }
-
-  //       //ruwet
-
-  //       elseif ($berat > 2 &&$berat < 51 &&$d['Dari'] ==''  &&$d['Tujuan'] =='' ) {
-        	
-  //       	echo rupiah($d['minim3']);
-        	
-  //       }
-  //       elseif ($berat >50 && $d['Dari'] =='' &&$d['Tujuan'] =='' ) {
-        	
-  //       	echo rupiah($berat * $d['lebih100'] );
-  //       }
-
-  //       elseif ($berat > 1 &&$berat < 11 &&$d['Dari'] =='' &&$d['Tujuan'] =='' ) {
-
-  //       	echo rupiah($d['fix1'] + (($berat -1 ) * $d['fix2']) + ($Lebar * $Panjang * $Tinggi  * ($d['kubikasi'] / 1000000)));
-  //       }
-
-  //       elseif ($berat > 10 &&$berat <21 &&$d['Dari'] =='' &&$d['Tujuan'] =='') {
-
-  //       	echo rupiah($d['minim3']);
-  //       }
-
-  //       elseif ($berat > 20 &&$d['Dari'] =='' &&$d['Tujuan'] =='') {
-
-  //       	echo rupiah($berat * $d['lebih100']);
-        	
-  //       }
-
-  //       elseif ($berat == 0 &&$d['Dari'] =='' &&$d['Tujuan']=='' ){
-
-  //       	echo rupiah($Lebar * $Panjang * $Tinggi  * ($d['kubikasi'] / 1000000));
-
-  //       }
-
-  //       else {
-
-  //       }
-
-
-
-        
-
-  //     } 
-
-
-
-
-
-
-
-      <?php
-         error_reporting(E_ALL ^ (E_NOTICE | E_WARNING));
-            
+     error_reporting(E_ALL ^ (E_NOTICE | E_WARNING));
+      
 
       include ("kone.php");
 
        
         // rumus dasar//
 
-        $data = mysqli_query($koneksi,"select * from tabelharga");
-        while($d = mysqli_fetch_array($data)){
+    $data = mysqli_query($koneksi,"select * from tabelharga");
+    while($d = mysqli_fetch_array($data)){
 
-            $berat = $_POST['brt'];
+          $berat = $_POST['brt'];
             $Lebar = $_POST['le'];
             $Panjang = $_POST['pa'];
             $Tinggi = $_POST['ti'];
@@ -118,32 +20,32 @@
 
         if($berat == 1 &&$d['Dari'] == $dari && $d['Tujuan'] ==$tujuan){
 
-            echo rupiah($d['fix1']);
+          echo rupiah($d['fix1']);
         }
 
         elseif ($berat == 2 && $d['Dari']== $dari && $d['Tujuan'] ==$tujuan) {
 
-            echo rupiah($d['fix2']);
+          echo rupiah($d['fix2']);
         }
 
         elseif ($berat > 2 &&$berat < 11 && $d['Dari'] == $dari &&$d['Tujuan'] == $tujuan ) {
 
-            echo rupiah((($berat - 1) * $d['Kg3'] + $d['minim3']) + ($Lebar * $Panjang * $Tinggi  * ($d['kubikasi'] / 1000000)));
+          echo rupiah((($berat - 1) * $d['Kg3'] + $d['minim3']) + ($Lebar * $Panjang * $Tinggi  * ($d['kubikasi'] / 1000000)));
         }
 
         elseif ($berat > 10 &&$berat < 101 && $d['Dari'] == $dari &&$d['Tujuan'] == $tujuan ) {
 
-            echo rupiah((($berat - 10) * $d['Kg11'] + $d['minim11']) + ($Lebar * $Panjang * $Tinggi  * ($d['kubikasi'] / 1000000)));
+          echo rupiah((($berat - 10) * $d['Kg11'] + $d['minim11']) + ($Lebar * $Panjang * $Tinggi  * ($d['kubikasi'] / 1000000)));
         }
 
         elseif ($berat > 100 && $d['Dari'] == $dari &&$d['Tujuan'] == $tujuan) {
 
-            echo rupiah(($berat * $d['lebih100']) + ($Lebar * $Panjang * $Tinggi  * ($d['kubikasi'] / 1000000)));
+          echo rupiah(($berat * $d['lebih100']) + ($Lebar * $Panjang * $Tinggi  * ($d['kubikasi'] / 1000000)));
         }
 
         elseif ($berat == 0 &&$d['Dari'] == $dari &&$d['Tujuan'] == $tujuan) {
 
-            echo rupiah($Lebar * $Panjang * $Tinggi  * ($d['kubikasi'] / 1000000));
+          echo rupiah($Lebar * $Panjang * $Tinggi  * ($d['kubikasi'] / 1000000));
         }
     }
         
@@ -242,7 +144,7 @@
 
         elseif ($berat >50  &&$ds['Dari'] ==$dari &&$ds['Tujuan'] ==$tujuan ) {
 
-         echo rupiah(($ds['Kg3'] * $berat ) + ($Lebar * $Panjang * $Tinggi  * ($ds['kubikasi'] / 1000000)));
+         echo rupiah(($ds['perKg'] * $berat ) + ($Lebar * $Panjang * $Tinggi  * ($ds['kubikasi'] / 1000000)));
         }
 
         elseif ($berat == 0 &&$ds['Dari'] ==$dari &&$ds['Tujuan']==$tujuan ){
@@ -295,8 +197,10 @@
     }
 
     //Tanah Abang
-    $dat = mysqli_query($koneksi,"SELECT * FROM TANAH_ABANG");
-    while($uwu = fetch_array($dat)){
+   
+
+    $dat = mysqli_query($koneksi,"SELECT * FROM tanah_abang");
+    while($uwu = mysqli_fetch_array($dat)){
 
         $tujuan = $_POST['tujuan'];
         $dari = $_POST['prom'];
@@ -308,34 +212,77 @@
 
         if($berat > 10 &&$berat < 26 &&$uwu['Dari'] == $dari &&$uwu['Tujuan'] == $tujuan){
 
-            echo rupiah(($uwu['']) + $Lebar * $Panjang * $Tinggi * ($uwu['kubikasi']/1000000));
+            echo rupiah(($uwu['range1']) + $Lebar * $Panjang * $Tinggi * ($uwu['kubikasi']/1000000));
 
         }
 
         elseif($berat > 25 &&$berat <51 &&$uwu['Dari'] == $dari &&$uwu['Tujuan'] == $tujuan){
 
-            echo rupiah(($uwu['']) + $Lebar * $Panjang * $Tinggi * ($uwu['kubikasi']/1000000));
+            echo rupiah(($uwu['range2']) + $Lebar * $Panjang * $Tinggi * ($uwu['kubikasi']/1000000));
 
         }
 
         elseif ($berat > 50 &&$berat < 101 &&$uwu['Dari'] == $dari &&$uwu['Tujuan'] == $tujuan) {
             
-            echo rupiah(($uwu['']) + $Lebar * $Panjang * $Tinggi * ($uwu['kubikasi']/1000000));
+            echo rupiah(($uwu['range3']) + $Lebar * $Panjang * $Tinggi * ($uwu['kubikasi']/1000000));
 
         }
 
         elseif ($berat >100 &&$berat <151 &&$uwu['dari'] == $dari &&$uwu['Tujuan'] == $tujuan) {
 
-            echo rupiah(($uwu['']) + $Lebar * $Panjang * $Tinggi * ($uwu['kubikasi']/1000000));
+            echo rupiah(($uwu['range4']) + $Lebar * $Panjang * $Tinggi * ($uwu['kubikasi']/1000000));
             
         }
 
         elseif ($berat >150 &&$uwu['Dari'] == $dari &&$uwu['Tujuan'] == $tujuan) {
 
-            echo rupiah(($uwu['']) + $Lebar * $Panjang * $tinggi * ($uwu['kubikasi']/1000000));
+            echo rupiah(($uwu['range5']) + $Lebar * $Panjang * $tinggi * ($uwu['kubikasi']/1000000));
             
         }
-    }
+       elseif($berat === 1 &&$uwu['Dari'] == $dari &&$uwu['Tujuan'] == $tujuan) {
+
+            echo rupiah($uwu['fix1']);
+
+       }
+
+       elseif($berat === 2 &&$uwu['Dari'] == $dari &&$uwu['Tujuan'] == $tujuan) {
+
+            echo rupiah($uwu['fix2']);
+       }
+
+           // elseif ($berat >2 &&$berat <11 &&$uwu['Dari'] == $dari &&$uwu['Tujuan'] == $tujuan ) {
+
+           //      echo rupiah((($berat * $uwu['Kg3']) + $uwu['minim3']) + ($Lebar * $Panjang * $Tinggi * ($uwu['kubikasi']/1000000)));
+               
+           // }
+     }
+
+
+     $tnh = mysqli_query($koneksi,"SELECT * FROM tnh1");
+     while ($owo = mysqli_fetch_array($tnh)) {
+         
+        if ($berat == 1 &&$owo['Dari'] == $dari &&$owo['Tujuan'] == $tujuan){
+
+            echo rupiah( $owo['fix1']);
+
+        }
+        elseif ($berat == 2 &&$owo['Dari'] == $dari &&$owo['Tujuan'] == $tujuan)  {
+            echo rupiah( $owo['fix2']);
+        }
+        elseif ($berat > 2 &&$berat < 11 &&$owo['Dari'] == $dari &&$owo['Tujuan'] == $tujuan)  {
+            echo rupiah(($owo['Kg3'] * $berat) + $owo['minim'] + ($Panjang * $Lebar * $Tinggi * ($owo['kubikasi']/1000000)));
+        }
+        elseif ($berat >10 &&$berat < 26 &&$owo['Dari'] == $dari &&$owo['Tujuan'] == $tujuan) {
+            echo rupiah($owo['range1']);
+        }
+        elseif ($berat > 25 &&$berat <51 &&$owo['Dari'] == $dari &&$owo['Tujuan'] == $tujuan) {
+            echo rupiah($owo['range2']);
+        }
+        elseif ($berat > 50 &&$owo['Dari'] == $dari &&$owo['Tujuan'] == $tujuan){
+            echo rupiah($berat * $owo['range3']);
+        }
+
+     }
 
     function rupiah($angka){  
 
@@ -343,6 +290,3 @@
                         return $hasil_rupiah; 
                       }
                       ?>
-
-      ?>
-     
