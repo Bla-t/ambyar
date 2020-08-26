@@ -64,7 +64,8 @@ label #btn{
 }
 label #cancel{
   z-index: 1111;
-  right: -195px;
+  right: 0px;
+  opacity: 0%;
   top: 78px;
   font-size: 30px;
   color: #A50000;
@@ -82,10 +83,12 @@ label #cancel{
 }
 #check:checked ~ label #cancel{
   right: 390px;
+  opacity: 100%;
+
 }
-#check:checked ~ section{
+/*#check:checked ~ section{
   margin-right: 450px;
-}
+}*/
 /**
 section{
   background: url(bg.jpeg) no-repeat;
