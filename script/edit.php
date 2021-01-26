@@ -21,7 +21,7 @@
 		  </div><br/>
 			<?php
 				include '../kone.php';
-				$id = $_GET['id'];
+				$id = isset($_GET['id']);
 				$data = mysqli_query($koneksi,"select * from tabelharga where id='$id'");
 				while($d = mysqli_fetch_array($data)){
 				?>
